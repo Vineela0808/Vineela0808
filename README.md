@@ -24,7 +24,7 @@ I bring experience from:
 - 🧠 Reinforcement Learning & Robot Autonomy
 - 🔍 Computer Vision on Edge Devices
 
-**Languages & Tools:** Python, C++, C, ROS, PyTorch, MbedOS, Creo, AutoCAD, Ansys, Git, Linux, Arduino
+**Languages & Tools:** Python, C++, C, ROS, PyTorch, MbedOS, Creo, AutoCAD, Ansys, Git, Linux
 
 ---
 ## 📂 Explore My Work
