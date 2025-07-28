@@ -30,7 +30,7 @@ I bring experience from:
 ## 📂 Explore My Work
 
 Feel free to explore my GitHub repositories to see what I’ve been working on:  
-👉 [github.com/Vineela0808]([https://github.com/Vineela0808](https://github.com/Vineela0808?tab=repositories))
+👉 [github.com/Vineela0808]( https://github.com/Vineela0808?tab=repositories )
 ---
 
 ## 📫 Let's Connect!
