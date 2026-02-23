@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vineela Reddy Pippera Badguna
 
 🎓 Graduate Student in Mechatronics and Robotics Engineering at **NYU Tandon School of Engineering**  
-📍 Based in Fremont, CA | 🌐 [LinkedIn](https://www.linkedin.com/in/vineelareddypb/) | 💻 [GitHub](https://github.com/Vineela0808)
+📍 Based in Seattle, WA | 🌐 [LinkedIn](https://www.linkedin.com/in/vineelareddypb/) | 💻 [GitHub](https://github.com/Vineela0808)
 
 ---
 
